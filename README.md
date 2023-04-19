@@ -14,3 +14,7 @@ Once Cloned, Raspberry Pi has to be configured for Three Things
           To test : raspistill -o output.jpeg
           To send the data to windows : https://www.tomshardware.com/how-to/use-raspberry-pi-as-pc-webcam 
           Note: For input use input_uvc.so 
+
+
+Put the Raspberry Pi files in Pi3b Model and run main2.py
+For Windows, run tfmini-camera.py
